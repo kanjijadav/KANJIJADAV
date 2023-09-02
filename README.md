@@ -35,4 +35,4 @@
 ❖ Oracle Cloud Infrastructure 2023 
 Certified Foundations Associate 
 
-❖ AWS Cloud Quest: Cloud Practitione
+❖ AWS Cloud Quest: Cloud Practitioner
